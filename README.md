@@ -97,7 +97,7 @@ explore-ai --openai-api-key=OPENAPI_KEY --gui
 To initialize the GUI along with the Userguide materials, run:
 
 ```bash
-explore-ai --openai-api-key=OPENAPI_KEY --userguide
+explore-ai --openai-api-key=OPENAPI_KEY --userguide --gui
 ```
 
 ## Additional Notes
