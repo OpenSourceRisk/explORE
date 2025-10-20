@@ -220,10 +220,6 @@ pillow==11.1.0
     # via
     #   -c requirements/common-constraints.txt
     #   -r requirements/requirements.in
-pip==25.0.1
-    # via
-    #   -c requirements/common-constraints.txt
-    #   -r requirements/requirements.in
 posthog==3.21.0
     # via
     #   -c requirements/common-constraints.txt
