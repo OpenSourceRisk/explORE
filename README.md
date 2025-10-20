@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src=".\assets\terminal.svg"
+    src="./assets/terminal.svg"
     alt="explORE-AI screencast"
   >
 </p>
