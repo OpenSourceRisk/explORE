@@ -1,0 +1,8 @@
+/src/test/
+*/src/test/
+/src/main/web/dist/
+/bin/
+/b3-tools/
+/docs/
+/test/
+*.MD
