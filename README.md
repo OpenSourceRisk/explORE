@@ -5,7 +5,7 @@
 # explORE-AI — A Specialized Fork of Aider for Open Source Risk Engine (ORE)
 
 <p align="center">
-  <em>Built upon the amazing foundation of <a href="https://aider.chat/">Aider</a></em>
+  <em>Built upon the foundation of <a href="https://aider.chat/">Aider</a></em>
 </p>
 
 **explORE-AI** helps you navigate, understand, and contribute to the **Open Source Risk Engine (ORE)** codebase. Originally derived from the powerful [Aider](https://github.com/Aider-AI/aider) AI pair-programming tool, this fork is tailored for **domain-specific insights** into ORE. If you find Aider useful for general purposes, please check out their project. For **ORE-focused** development, read on!
